@@ -9,5 +9,7 @@ O script faz uma série de requisições GET para a API da Tabela FIPE. Ele come
 
 # Saída
 A saída será impressa no console e seguirá o seguinte formato:
+
+
 ![image](https://github.com/vininigra/Api_FIPE/assets/111812339/5699f3eb-7c1b-424b-b284-48456cd75b80)
 
