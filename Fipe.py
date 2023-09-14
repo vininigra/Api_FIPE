@@ -30,6 +30,7 @@ if req_marcas.status_code == 200:
                         if req_valor.status_code == 200:
                             valor = req_valor.json()['Valor']
                             print(f"    - {ano_modelo['nome']}: {valor}")
+                            
 elif req_marcas.status_code == 404:
     print('Não encontrado')
 
